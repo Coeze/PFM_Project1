@@ -52,84 +52,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: bird
+//  action 1: bird flying
+    bird.fly()
+//  action 2:bird sleeping
+    bird.sleeping()
+//  action 3:bird walk
+    bird.walk()
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: tree
+//  action 1: tree releases CO2
+        tree.releaseCO2()
+//  action 2: tree takes in oxygen
+        tree.takeInO2()
+//  action 3: tree grows
+        tree.grow()
 
 //  3)
-//  Noun:
-//  action 1:
+//  Noun: lion
+//  action 1: lion.roar()
 
-//  action 2:
+//  action 2: lion.attack()
 
-//  action 3:
+//  action 3: lion.run()
 
 //  4)
-//  Noun:
-//  action 1:
+//  Noun:tiger
+//  action 1:tiger.roar()
 
-//  action 2:
+//  action 2:tiger.attack()
 
-//  action 3:
+//  action 3:tiger.attack()
 
 //  5)
-//  Noun:
-//  action 1:
+//  Noun:Phone
+//  action 1:phone.showScreen()
 
-//  action 2:
+//  action 2:phone.turnOff()
 
-//  action 3:
+//  action 3:phone.makeSound()
 
 //  6)
-//  Noun:
-//  action 1:
+//  Noun:Person
+//  action 1: Person.speak()
 
-//  action 2:
+//  action 2:Person.shout()
 
-//  action 3:
+//  action 3:Person.walk()
 
 //  7)
-//  Noun:
-//  action 1:
+//  Noun: Coder
+//  action 1: Coder.code()
 
-//  action 2:
+//  action 2:Coder.learnCPP()
 
-//  action 3:
+//  action 3:coder.searchStackOverflow()
 
 //  8)
-//  Noun:
-//  action 1:
+//  Noun: Dolphin
+//  action 1: Dolphin.swim()
 
-//  action 2:
+//  action 2:Dolphin.breathe()
 
-//  action 3:
+//  action 3:Dolphin.jumpOutOfWater()
 
 //  9)
-//  Noun:
-//  action 1:
+//  Noun: Athlete
+//  action 1:Athlete.train()
 
-//  action 2:
+//  action 2:Athlete.eatHealthy
 
-//  action 3:
+//  action 3:Athlete.recover()
 
 //  10)
-//  Noun:
-//  action 1:
+//  Noun:Laptop
+//  action 1: Laptop.on()
 
-//  action 2:
+//  action 2:Laptop.off()
 
-//  action 3:
+//  action 3:Laptop.restart()
 
 
 
